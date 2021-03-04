@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\BOL\bin\Debug\netstandard2.0\BOL.deps.json
+C:\Users\admin\source\repos\BOL\bin\Debug\netstandard2.0\BOL.dll
+C:\Users\admin\source\repos\BOL\bin\Debug\netstandard2.0\BOL.pdb
+C:\Users\admin\source\repos\BOL\obj\Debug\netstandard2.0\BOL.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\BOL\obj\Debug\netstandard2.0\BOL.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\BOL\obj\Debug\netstandard2.0\BOL.AssemblyInfo.cs
+C:\Users\admin\source\repos\BOL\obj\Debug\netstandard2.0\BOL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BOL\obj\Debug\netstandard2.0\BOL.dll
+C:\Users\admin\source\repos\BOL\obj\Debug\netstandard2.0\BOL.pdb
